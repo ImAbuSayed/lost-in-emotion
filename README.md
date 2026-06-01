@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lost-in-emotion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Lost In Emotion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-emotion/) |
+| **Get License** | [Official Music Licensing for Lost In Emotion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lost-in-emotion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c14e797731df396eeb150f364dc7741e372ed0aaf7f5d5891c0661449ff7bc4d` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
