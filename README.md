@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when our shadows intertwine
+> Like dusty roads that leave the empty miles behind
+> You pull me closer with a gentle, slow embrace
+> I find my haven in the warmth of this sweet space
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
